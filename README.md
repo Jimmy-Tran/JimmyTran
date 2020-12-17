@@ -17,7 +17,7 @@
 /api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/fofoispizza)
 
 [<img src="https://spotify-now-playing-git-master.jimmy-tran.vercel.app
-/api/spotify-now-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/fofoispizza)
+/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/fofoispizza)
 
 ### Connect with me:
 
