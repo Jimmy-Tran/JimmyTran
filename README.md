@@ -13,8 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="spotify-now-playing-ashen.vercel.app
-" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/fofoispizza)
+[<img src="https://spotify-now-playing-git-master.jimmy-tran.vercel.app/" width="350" />](https://open.spotify.com/user/fofoispizza)
 
 ### Connect with me:
 
