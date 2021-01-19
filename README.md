@@ -16,7 +16,7 @@
 [<img src="https://novatorem1.jimmy-tran.vercel.app
 /api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
 
-[![Spotify](https://Jimmy-Tran.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://Jimmy-Tran.vercel.app/api/spotify)](https://open.spotify.com/user/fofoispizza)
 
 ### Connect with me:
 
