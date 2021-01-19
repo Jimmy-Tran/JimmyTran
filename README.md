@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem1-beryl.vercel.app
+[<img src="https://novatorem1.jimmy-tran.vercel.app
 /api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
 
 ### Connect with me:
