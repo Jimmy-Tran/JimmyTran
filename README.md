@@ -13,11 +13,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem1.jimmy-tran.vercel.app
-/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
-
-[<img src="https://spotify-now-playing-git-master.jimmy-tran.vercel.app
-/api/spotify-playing" alt="Spotify Now Playing" width="351" />](https://open.spotify.com/user/487b10788edc40a7bcfc3fed0ebcf2db)
+[<img src="https://novatorem1-beryl.vercel.app
+/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
 
 ### Connect with me:
 
